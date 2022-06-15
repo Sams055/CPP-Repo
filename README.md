@@ -5,7 +5,7 @@
 
 
 ## Basics:
-  - Hello World
+  - [Hello World] (/basics/hello_world/main.cpp)
   - Variables
   - Datatypes
   - Numbers
