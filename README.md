@@ -5,8 +5,8 @@
 
 
 ## Basics:
-  - HelloWorld
-  - [Variables](\basics\variables\main.cpp)
+  - Hello World
+  - Variables
   - Datatypes
   - Numbers
   - Concatenation
