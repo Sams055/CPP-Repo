@@ -1,0 +1,5 @@
+# ninja log v5
+0	271	6766516754487989	CMakeFiles/hello_world_simpler.dir/main.cpp.obj	c57b5f5df6c9d99f
+274	359	6766516755358179	hello_world_simpler.exe	fa6e4a35db8a893e
+2	265	6766521046009630	CMakeFiles/hello_world_simpler.dir/main.cpp.obj	c57b5f5df6c9d99f
+266	355	6766521046889824	hello_world_simpler.exe	fa6e4a35db8a893e

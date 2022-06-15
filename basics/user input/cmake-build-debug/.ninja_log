@@ -1,0 +1,25 @@
+# ninja log v5
+0	263	6767366334532124	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+265	354	6767366335432124	user_input.exe	e3edd2bb59e93b74
+2	281	6767366563747138	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+281	374	6767366564687181	user_input.exe	e3edd2bb59e93b74
+2	264	6767367899347799	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+265	355	6767367900237993	user_input.exe	e3edd2bb59e93b74
+2	271	6767368827501090	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+271	358	6767368828371284	user_input.exe	e3edd2bb59e93b74
+2	260	6767368993208084	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+261	349	6767368994078269	user_input.exe	e3edd2bb59e93b74
+2	260	6767369121566134	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+263	346	6767369122416326	user_input.exe	e3edd2bb59e93b74
+2	259	6767369334096008	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+259	347	6767369334966207	user_input.exe	e3edd2bb59e93b74
+2	268	6767370188655186	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+268	363	6767370189595440	user_input.exe	e3edd2bb59e93b74
+2	273	6767371757749821	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+273	367	6767371758670025	user_input.exe	e3edd2bb59e93b74
+2	267	6767372385069116	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+268	356	6767372385939311	user_input.exe	e3edd2bb59e93b74
+2	264	6767373053268400	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+265	356	6767373054168600	user_input.exe	e3edd2bb59e93b74
+2	269	6767373635236241	CMakeFiles/user_input.dir/main.cpp.obj	d80de4f7f6422e54
+270	374	6767373636261572	user_input.exe	e3edd2bb59e93b74

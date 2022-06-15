@@ -1,0 +1,3 @@
+C:/Users/Samay Magecha/CLionProjects/basics/variables/cmake-build-debug/CMakeFiles/variables.dir
+C:/Users/Samay Magecha/CLionProjects/basics/variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samay Magecha/CLionProjects/basics/variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir

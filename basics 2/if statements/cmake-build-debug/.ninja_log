@@ -1,0 +1,27 @@
+# ninja log v5
+0	269	6767444669238947	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+271	357	6767444670119152	if_statements.exe	71ab9262b63ee348
+3	305	6767446245069839	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+306	396	6767446245970063	if_statements.exe	71ab9262b63ee348
+2	273	6767446464879947	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+273	358	6767446465730137	if_statements.exe	71ab9262b63ee348
+2	273	6767449143453849	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+274	361	6767449144324038	if_statements.exe	71ab9262b63ee348
+2	271	6767450338620371	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+271	359	6767450339480566	if_statements.exe	71ab9262b63ee348
+2	263	6767450609406567	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+263	357	6767450610346782	if_statements.exe	71ab9262b63ee348
+2	261	6767450815359351	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+261	349	6767450816239547	if_statements.exe	71ab9262b63ee348
+2	262	6767451173448262	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+263	374	6767451174558511	if_statements.exe	71ab9262b63ee348
+2	263	6767451895787716	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+264	351	6767451896657908	if_statements.exe	71ab9262b63ee348
+2	262	6767452070209357	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+263	352	6767452071089559	if_statements.exe	71ab9262b63ee348
+3	293	6767453162978971	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+293	386	6767453163899184	if_statements.exe	71ab9262b63ee348
+3	269	6767453421256063	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+269	356	6767453422116253	if_statements.exe	71ab9262b63ee348
+2	265	6767453590177176	CMakeFiles/if_statements.dir/main.cpp.obj	34052c4d013a24a7
+265	352	6767453591037369	if_statements.exe	71ab9262b63ee348
