@@ -17,8 +17,9 @@
   - Arrays
   - Functions
   - If Statements
+  - Switch Case
  
 ## Mini Projects:
   - Basic Calculator
-  - madlibs
+  - Madlibs
   - Advanced Calculator
