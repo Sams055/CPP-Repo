@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "working_with_strings",
+					"name" : "switch_case",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "working_with_strings::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-working_with_strings-Debug-b36f20d8310779e895c9.json",
-					"name" : "working_with_strings",
+					"id" : "switch_case::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-switch_case-Debug-23f616e16276b35f0255.json",
+					"name" : "switch_case",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Samay Magecha/CLionProjects/basics/working with strings/cmake-build-debug",
-		"source" : "C:/Users/Samay Magecha/CLionProjects/basics/working with strings"
+		"build" : "C:/Users/Samay Magecha/CLionProjects/C++/basics 2/switch case/cmake-build-debug",
+		"source" : "C:/Users/Samay Magecha/CLionProjects/C++/basics 2/switch case"
 	},
 	"version" : 
 	{

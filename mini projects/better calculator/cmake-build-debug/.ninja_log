@@ -1,5 +1,5 @@
 # ninja log v5
-0	494	6768208723685989	CMakeFiles/better_calculator.dir/main.cpp.obj	c15a739f1d838358
-495	804	6768208726774999	better_calculator.exe	c639dddd04998883
 3	278	6768219191816199	CMakeFiles/better_calculator.dir/main.cpp.obj	c15a739f1d838358
 279	367	6768219192693022	better_calculator.exe	c639dddd04998883
+6	293	6781131585154084	CMakeFiles/better_calculator.dir/main.cpp.obj	7f138d494718cbd2
+295	407	6781131586274330	better_calculator.exe	ee6956e6fbd4fe43

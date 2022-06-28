@@ -1,3 +1,3 @@
-C:/Users/Samay Magecha/CLionProjects/basics/working with strings/cmake-build-debug/CMakeFiles/working_with_strings.dir
-C:/Users/Samay Magecha/CLionProjects/basics/working with strings/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Samay Magecha/CLionProjects/basics/working with strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Samay Magecha/CLionProjects/C++/basics/working with strings/cmake-build-debug/CMakeFiles/working_with_strings.dir
+C:/Users/Samay Magecha/CLionProjects/C++/basics/working with strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samay Magecha/CLionProjects/C++/basics/working with strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
