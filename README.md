@@ -18,8 +18,16 @@
   - Functions
   - If Statements
   - Switch Case
+  - While Loop
+  - For Loop
+  - Exponent
+  - 2D Arrays and Nested Loops
+ 
+ ## Advanced:
+  - Dynamic Arrays
  
 ## Mini Projects:
   - Basic Calculator
   - Madlibs
   - Advanced Calculator
+  - Guessing Game
