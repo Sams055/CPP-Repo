@@ -1,0 +1,11 @@
+# ninja log v5
+0	406	6851208867922219	CMakeFiles/while_loop.dir/main.cpp.obj	f8c2ad98c4e49ce3
+408	565	6851208869482640	while_loop.exe	9a0d6187d996b70b
+3	335	6851208962633909	CMakeFiles/while_loop.dir/main.cpp.obj	f8c2ad98c4e49ce3
+336	432	6851208963569461	while_loop.exe	9a0d6187d996b70b
+4	399	6851211434668157	CMakeFiles/while_loop.dir/main.cpp.obj	f8c2ad98c4e49ce3
+400	514	6851211435789203	while_loop.exe	9a0d6187d996b70b
+4	400	6851211721767456	CMakeFiles/while_loop.dir/main.cpp.obj	f8c2ad98c4e49ce3
+401	521	6851211722967763	while_loop.exe	9a0d6187d996b70b
+5	426	6851212048858719	CMakeFiles/while_loop.dir/main.cpp.obj	f8c2ad98c4e49ce3
+427	549	6851212050019025	while_loop.exe	9a0d6187d996b70b
