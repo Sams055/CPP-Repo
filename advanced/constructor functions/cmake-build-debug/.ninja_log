@@ -1,0 +1,15 @@
+# ninja log v5
+1	260	6851995038397192	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+262	336	6851995039117370	constructor_functions.exe	9386ddefda8a45a5
+2	262	6851995544439454	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+263	337	6851995545169612	constructor_functions.exe	9386ddefda8a45a5
+2	282	6851997711902870	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+282	360	6851997712673043	constructor_functions.exe	9386ddefda8a45a5
+3	263	6851997834909212	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+264	337	6851997835619372	constructor_functions.exe	9386ddefda8a45a5
+2	268	6851998035276446	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+268	342	6851998035996606	constructor_functions.exe	9386ddefda8a45a5
+2	270	6851998251661892	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+271	344	6851998252382059	constructor_functions.exe	9386ddefda8a45a5
+2	282	6852000133971013	CMakeFiles/constructor_functions.dir/main.cpp.obj	f50d23de194a4882
+283	361	6852000134731183	constructor_functions.exe	9386ddefda8a45a5
