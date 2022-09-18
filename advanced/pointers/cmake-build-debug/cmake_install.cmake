@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Samay Magecha/CLionProjects/C++/advanced/vector memory allocation
+# Install script for directory: C:/Users/Samay Magecha/CLionProjects/C++/advanced/pointers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/vector_memory_allocation")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/pointers")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Samay Magecha/CLionProjects/C++/advanced/vector memory allocation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Samay Magecha/CLionProjects/C++/advanced/pointers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

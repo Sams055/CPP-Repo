@@ -1,0 +1,13 @@
+# ninja log v5
+0	262	6851969946051655	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+264	341	6851969946811830	pointers.exe	bee07e9cb10505fc
+2	265	6851971421320056	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+265	339	6851971422040218	pointers.exe	bee07e9cb10505fc
+3	260	6851971646788185	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+261	336	6851971647518344	pointers.exe	bee07e9cb10505fc
+2	263	6851975824694213	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+263	337	6851975825414373	pointers.exe	bee07e9cb10505fc
+2	268	6851978033776070	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+268	343	6851978034506233	pointers.exe	bee07e9cb10505fc
+3	268	6851978991696603	CMakeFiles/pointers.dir/main.cpp.obj	9ad92c4cd86aa9e1
+268	342	6851978992416762	pointers.exe	bee07e9cb10505fc

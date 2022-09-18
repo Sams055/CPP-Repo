@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: vector_memory_allocation
+# Project: pointers
 # Configurations: Debug
 # =============================================================================
 
@@ -39,49 +39,49 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/Samay$ Magecha/CLionProjects/C++/advanced/vector$ memory$ allocation/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Samay$ Magecha/CLionProjects/C++/advanced/pointers/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target vector_memory_allocation
+# Object build statements for EXECUTABLE target pointers
 
 
 #############################################
-# Order-only phony target for vector_memory_allocation
+# Order-only phony target for pointers
 
-build cmake_object_order_depends_target_vector_memory_allocation: phony || CMakeFiles/vector_memory_allocation.dir
+build cmake_object_order_depends_target_pointers: phony || CMakeFiles/pointers.dir
 
-build CMakeFiles/vector_memory_allocation.dir/main.cpp.obj: CXX_COMPILER__vector_memory_allocation_Debug C$:/Users/Samay$ Magecha/CLionProjects/C++/advanced/vector$ memory$ allocation/main.cpp || cmake_object_order_depends_target_vector_memory_allocation
-  DEP_FILE = CMakeFiles\vector_memory_allocation.dir\main.cpp.obj.d
+build CMakeFiles/pointers.dir/main.cpp.obj: CXX_COMPILER__pointers_Debug C$:/Users/Samay$ Magecha/CLionProjects/C++/advanced/pointers/main.cpp || cmake_object_order_depends_target_pointers
+  DEP_FILE = CMakeFiles\pointers.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  OBJECT_DIR = CMakeFiles\vector_memory_allocation.dir
-  OBJECT_FILE_DIR = CMakeFiles\vector_memory_allocation.dir
-  TARGET_COMPILE_PDB = CMakeFiles\vector_memory_allocation.dir\
-  TARGET_PDB = vector_memory_allocation.pdb
+  OBJECT_DIR = CMakeFiles\pointers.dir
+  OBJECT_FILE_DIR = CMakeFiles\pointers.dir
+  TARGET_COMPILE_PDB = CMakeFiles\pointers.dir\
+  TARGET_PDB = pointers.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target vector_memory_allocation
+# Link build statements for EXECUTABLE target pointers
 
 
 #############################################
-# Link the executable vector_memory_allocation.exe
+# Link the executable pointers.exe
 
-build vector_memory_allocation.exe: CXX_EXECUTABLE_LINKER__vector_memory_allocation_Debug CMakeFiles/vector_memory_allocation.dir/main.cpp.obj
+build pointers.exe: CXX_EXECUTABLE_LINKER__pointers_Debug CMakeFiles/pointers.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\vector_memory_allocation.dir
+  OBJECT_DIR = CMakeFiles\pointers.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\vector_memory_allocation.dir\
-  TARGET_FILE = vector_memory_allocation.exe
-  TARGET_IMPLIB = libvector_memory_allocation.dll.a
-  TARGET_PDB = vector_memory_allocation.pdb
+  TARGET_COMPILE_PDB = CMakeFiles\pointers.dir\
+  TARGET_FILE = pointers.exe
+  TARGET_IMPLIB = libpointers.dll.a
+  TARGET_PDB = pointers.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Samay Magecha\CLionProjects\C++\advanced\vector memory allocation\cmake-build-debug" && "C:\Users\Samay Magecha\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Samay Magecha\CLionProjects\C++\advanced\pointers\cmake-build-debug" && "C:\Users\Samay Magecha\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\Samay Magecha\CLionProjects\C++\advanced\vector memory allocation\cmake-build-debug" && "C:\Users\Samay Magecha\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Samay Magecha\CLionProjects\C++\advanced\vector memory allocation" -B"C:\Users\Samay Magecha\CLionProjects\C++\advanced\vector memory allocation\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\Samay Magecha\CLionProjects\C++\advanced\pointers\cmake-build-debug" && "C:\Users\Samay Magecha\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\Samay Magecha\CLionProjects\C++\advanced\pointers" -B"C:\Users\Samay Magecha\CLionProjects\C++\advanced\pointers\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -102,7 +102,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build vector_memory_allocation: phony vector_memory_allocation.exe
+build pointers: phony pointers.exe
 
 # =============================================================================
 # Folder targets.
@@ -110,9 +110,9 @@ build vector_memory_allocation: phony vector_memory_allocation.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/Samay Magecha/CLionProjects/C++/advanced/vector memory allocation/cmake-build-debug
+# Folder: C:/Users/Samay Magecha/CLionProjects/C++/advanced/pointers/cmake-build-debug
 
-build all: phony vector_memory_allocation.exe
+build all: phony pointers.exe
 
 # =============================================================================
 # Built-in targets

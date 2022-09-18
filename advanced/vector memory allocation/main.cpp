@@ -8,6 +8,7 @@ int main() {
     //we can import in the <vector> class and use it to make a dynamic array.
 
     int n = 3; // n is the size of the array
+    //format is vector<datatype> name(array size,default element value);
     vector<int> dynamicArray(n,0);
     for(int i = 0; i < n; i++)
     {

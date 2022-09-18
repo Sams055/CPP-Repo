@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.22"
+						"string" : "3.23"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "vector_memory_allocation",
+					"name" : "pointers",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "vector_memory_allocation::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-vector_memory_allocation-Debug-617feb4474a601731a6c.json",
-					"name" : "vector_memory_allocation",
+					"id" : "pointers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointers-Debug-434839fd0b15a411d0bb.json",
+					"name" : "pointers",
 					"projectIndex" : 0
 				}
 			]
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Samay Magecha/CLionProjects/C++/advanced/vector memory allocation/cmake-build-debug",
-		"source" : "C:/Users/Samay Magecha/CLionProjects/C++/advanced/vector memory allocation"
+		"build" : "C:/Users/Samay Magecha/CLionProjects/C++/advanced/pointers/cmake-build-debug",
+		"source" : "C:/Users/Samay Magecha/CLionProjects/C++/advanced/pointers"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }
