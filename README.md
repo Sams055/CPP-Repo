@@ -24,7 +24,11 @@
   - 2D Arrays and Nested Loops
  
  ## Advanced:
-  - Dynamic Arrays
+  - Vector-based dynamic arrays
+  - Pointers
+  - Classes and Objects
+  - Constructor functions
+  
  
 ## Mini Projects:
   - Basic Calculator
